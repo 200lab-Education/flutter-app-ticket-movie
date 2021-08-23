@@ -1,16 +1,23 @@
 # movie_app_live
 
-A new Flutter project.
+Buổi livestream hướng dẫn: THỰC CHIẾN XÂY DỰNG APP FLUTTER TỪ GIAO DIỆN (MOVIE TICKET APP).
 
-## Getting Started
+Nội dung chính:
+✅ Phân tích UI từ bản thiết kế và đọc hiểu các thông số từ bản Design.
+✅ Thiết lập project structure cho ứng dụng.
+✅ Xây dựng các core component.
+✅ Còn được bonus thêm topic: Cách phát triển ứng dụng “right way” ngay từ ban đầu.
 
-This project is a starting point for a Flutter application.
+Một số tài liệu tham khảo cho các bạn quan tâm lập trình Flutter:
 
-A few resources to get you started if this is your first Flutter project:
+Bộ videos hướng dẫn làm app học tiếng Anh với Flutter (dành cho người mới):
+https://www.youtube.com/playlist?list=PLFcgubjtcw5U-Y6z1gpR02ebF-jyLoyga
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+Seri bài viết tìm hiểu ngôn ngữ DART:
+https://200lab.io/blog/tu-hoc-ngon-dart-nhung-dieu-can-biet-truoc-khi-bat-dau
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Seri bài viết hướng dẫn làm app, các kỹ thuật thường dùng trong Flutter:
+https://200lab.io/blog/flutter-co-ban-xay-dung-ung-dung-dau-tien
+
+Và nhiều bài viết về Flutter tại đây:
+https://200lab.io/blog/tag/flutter
